@@ -2,3 +2,6 @@ bbf
 git add bo đồ vào tuí
 git commit gói hàng, dán nhãn
 git push gửi đi
+
+cahgne
+cahgne
